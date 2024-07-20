@@ -7,4 +7,4 @@
 #boredazfcuk/icloudpd:1.0.906_10-07-2024
 #onlyoffice/documentserver:latest
 #neosmemo/memos:stable
-ubuntu:full
+colinchang/ubuntu-desktop
