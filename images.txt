@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #boredazfcuk/icloudpd:1.0.906_10-07-2024
 #onlyoffice/documentserver:latest
-neosmemo/memos:stable
+#neosmemo/memos:stable
+ubuntu:full
