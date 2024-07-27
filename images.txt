@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-boredazfcuk/icloudpd:1.0.915_21-07-2024
+#boredazfcuk/icloudpd:1.0.915_21-07-2024
 #onlyoffice/documentserver:latest
 #neosmemo/memos:stable
 #colinchang/ubuntu-desktop
+hsuyelin/nas-tools:latest
