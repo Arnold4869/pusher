@@ -8,4 +8,5 @@
 #onlyoffice/documentserver:latest
 #neosmemo/memos:stable
 #colinchang/ubuntu-desktop
-hsuyelin/nas-tools:latest
+#hsuyelin/nas-tools:latest
+hectorqin/reader:3.2.10
