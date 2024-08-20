@@ -9,4 +9,5 @@
 #neosmemo/memos:stable
 #colinchang/ubuntu-desktop
 #hsuyelin/nas-tools:latest
-hectorqin/reader:3.2.10
+#hectorqin/reader:3.2.10
+likeflyme/cloudbak
