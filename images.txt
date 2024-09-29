@@ -4,10 +4,14 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-boredazfcuk/icloudpd:1.0.980_17-09-2024
+#boredazfcuk/icloudpd:1.0.980_17-09-2024
 #onlyoffice/documentserver:latest
 #neosmemo/memos:stable
 #colinchang/ubuntu-desktop
 #hsuyelin/nas-tools:latest
 #hectorqin/reader:3.2.10
 #likeflyme/cloudbak
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+ghcr.io/immich-app/immich-server:latest
+ghcr.io/immich-app/immich-machine-learning:latest
