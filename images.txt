@@ -16,5 +16,5 @@
 #ghcr.io/immich-app/immich-server:release
 #ghcr.io/immich-app/immich-machine-learning:release
 #whyour/qinglong:2.16.2
-finab/bark-server
-
+#finab/bark-server
+gdy666/lucky:2.10.9
