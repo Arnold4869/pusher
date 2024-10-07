@@ -15,4 +15,4 @@
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 #ghcr.io/immich-app/immich-server:release
 #ghcr.io/immich-app/immich-machine-learning:release
-
+whyour/qinglong:2.16.2
