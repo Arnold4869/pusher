@@ -19,4 +19,5 @@
 #finab/bark-server
 #gdy666/lucky:2.10.9
 #jancehui/update-jd-ck:1.1
-portainer/portainer:latest
+#portainer/portainer:latest
+ellermister/mybili
