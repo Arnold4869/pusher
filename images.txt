@@ -21,4 +21,5 @@
 #jancehui/update-jd-ck:1.1
 #portainer/portainer:latest
 #ellermister/mybili
-kqstone/mt-photos-insightface-unofficial:latest
+#kqstone/mt-photos-insightface-unofficial:latest
+amtoaer/bili-sync-rs:v2.1.2
