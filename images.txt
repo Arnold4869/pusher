@@ -22,4 +22,5 @@
 #portainer/portainer:latest
 #ellermister/mybili
 #kqstone/mt-photos-insightface-unofficial:latest
-amtoaer/bili-sync-rs:v2.1.2
+#amtoaer/bili-sync-rs:v2.1.2
+jxxghp/moviepilot:latest
