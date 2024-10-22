@@ -24,5 +24,6 @@
 #kqstone/mt-photos-insightface-unofficial:latest
 #amtoaer/bili-sync-rs:v2.1.2
 #jxxghp/moviepilot:latest
-iyuucn/iyuuplus-dev:latest
-easychen/cookiecloud
+#iyuucn/iyuuplus-dev:latest
+#easychen/cookiecloud
+linuxserver/qbittorrent
