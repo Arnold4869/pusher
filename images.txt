@@ -26,4 +26,5 @@
 #jxxghp/moviepilot:latest
 #iyuucn/iyuuplus-dev:latest
 #easychen/cookiecloud
-linuxserver/qbittorrent:4.6.7
+#linuxserver/qbittorrent:4.6.7
+likun7981/hlink
