@@ -27,4 +27,5 @@
 #iyuucn/iyuuplus-dev:latest
 #easychen/cookiecloud
 #linuxserver/qbittorrent:4.6.7
-likun7981/hlink
+#likun7981/hlink
+linuxserver/transmission:4.0.5
