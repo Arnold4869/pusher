@@ -28,5 +28,5 @@
 #easychen/cookiecloud
 #linuxserver/qbittorrent:4.6.7
 #likun7981/hlink
-#linuxserver/transmission:4.0.5
-xhofe/alist:v3.40.0
+linuxserver/transmission:4.0.6
+#xhofe/alist:v3.40.0
