@@ -28,5 +28,6 @@
 #easychen/cookiecloud
 #linuxserver/qbittorrent:4.6.7
 #likun7981/hlink
-linuxserver/transmission:4.0.6
+#linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
+jxxghp/moviepilot-v2:latest
