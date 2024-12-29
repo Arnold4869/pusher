@@ -30,4 +30,5 @@
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
-jxxghp/moviepilot-v2:latest
+#jxxghp/moviepilot-v2:latest
+ddsderek/wxchat:latest
