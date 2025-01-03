@@ -31,4 +31,5 @@
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
 #jxxghp/moviepilot-v2:latest
-ddsderek/wxchat:latest
+#ddsderek/wxchat:latest
+mzz2017/v2raya
