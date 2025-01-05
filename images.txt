@@ -32,4 +32,5 @@
 #xhofe/alist:v3.40.0
 #jxxghp/moviepilot-v2:latest
 #ddsderek/wxchat:latest
-mzz2017/v2raya
+#mzz2017/v2raya
+lovechen/embyserver
