@@ -33,4 +33,5 @@
 #jxxghp/moviepilot-v2:latest
 #ddsderek/wxchat:latest
 #mzz2017/v2raya
-lovechen/embyserver
+#lovechen/embyserver
+lovonet/nginx:latest
