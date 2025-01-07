@@ -9,7 +9,7 @@
 #neosmemo/memos:stable
 #colinchang/ubuntu-desktop
 #hsuyelin/nas-tools:latest
-hectorqin/reader:3.2.15
+hectorqin/reader:3.2.12
 #likeflyme/cloudbak
 #docker.io/redis:6.2-alpine
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
