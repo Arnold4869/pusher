@@ -9,7 +9,7 @@
 #neosmemo/memos:stable
 #colinchang/ubuntu-desktop
 #hsuyelin/nas-tools:latest
-#hectorqin/reader:3.2.10
+hectorqin/reader:3.2.15
 #likeflyme/cloudbak
 #docker.io/redis:6.2-alpine
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
@@ -34,4 +34,4 @@
 #ddsderek/wxchat:latest
 #mzz2017/v2raya
 #lovechen/embyserver
-levonet/nginx:latest
+#levonet/nginx:latest
