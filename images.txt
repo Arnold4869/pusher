@@ -33,7 +33,7 @@
 #jxxghp/moviepilot-v2:2.2.8
 
 #ddsderek/wxchat:latest
-mzz2017/v2raya:2.2.6.6
+mzz2017/v2raya:v2.2.6.6
 #lovechen/embyserver
 #levonet/nginx:latest
 #devfox101/mt-photos-insightface-unofficial:latest
