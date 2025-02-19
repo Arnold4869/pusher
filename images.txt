@@ -30,10 +30,10 @@
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
-#jxxghp/moviepilot-v2:2.2.8
+jxxghp/moviepilot-v2:2.3.0
 
 #ddsderek/wxchat:latest
-mzz2017/v2raya:v2.2.6.6
+#mzz2017/v2raya:v2.2.6.6
 #lovechen/embyserver
 #levonet/nginx:latest
 #devfox101/mt-photos-insightface-unofficial:latest
