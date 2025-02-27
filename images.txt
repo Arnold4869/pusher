@@ -32,9 +32,10 @@
 #xhofe/alist:v3.40.0
 #jxxghp/moviepilot-v2:2.3.0
 #alpine
-boredazfcuk/icloudpd:1.0.1236_23-02-2025
+#boredazfcuk/icloudpd:1.0.1236_23-02-2025
 #ddsderek/wxchat:latest
 #mzz2017/v2raya:v2.2.6.6
 #lovechen/embyserver
 #levonet/nginx:latest
 #devfox101/mt-photos-insightface-unofficial:latest
+szzhoubanxian/reseed-puppy:latest
