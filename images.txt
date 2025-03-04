@@ -30,7 +30,7 @@
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
-jxxghp/moviepilot-v2:2.3.2
+jxxghp/moviepilot-v2:2.3.3-1
 #alpine
 #boredazfcuk/icloudpd:1.0.1236_23-02-2025
 #ddsderek/wxchat:latest
