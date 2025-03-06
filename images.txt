@@ -39,6 +39,6 @@
 #levonet/nginx:latest
 #devfox101/mt-photos-insightface-unofficial:latest
 #szzhoubanxian/reseed-puppy:latest
-mtphotos/mt-photos:1.35.6
-mtphotos/mt-photos-pg:latest
-mtphotos/mt-photos-ai:latest
+#mtphotos/mt-photos:1.35.6
+#mtphotos/mt-photos-pg:latest
+mtphotos/mt-photos-ai:onnx-latest
