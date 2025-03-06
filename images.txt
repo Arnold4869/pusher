@@ -42,4 +42,5 @@
 #mtphotos/mt-photos:1.35.6
 #mtphotos/mt-photos-pg:latest
 #mtphotos/mt-photos-ai:onnx-latest
-gdy666/lucky:2.15.7
+#gdy666/lucky:2.15.7
+finab/bark-server
