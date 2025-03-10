@@ -30,7 +30,7 @@
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
-#jxxghp/moviepilot-v2:2.3.3-1
+jxxghp/moviepilot-v2:2.3.4
 #alpine
 #boredazfcuk/icloudpd:1.0.1236_23-02-2025
 #ddsderek/wxchat:latest
@@ -43,4 +43,4 @@
 #mtphotos/mt-photos-pg:latest
 #mtphotos/mt-photos-ai:onnx-latest
 #gdy666/lucky:2.15.7
-finab/bark-server
+#finab/bark-server
