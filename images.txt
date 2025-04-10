@@ -30,11 +30,11 @@
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
-jxxghp/moviepilot-v2:2.3.5
+jxxghp/moviepilot-v2:2.3.9
 #alpine
 #boredazfcuk/icloudpd:1.0.1236_23-02-2025
 #ddsderek/wxchat:latest
-mzz2017/v2raya:v2.2.6.7
+#mzz2017/v2raya:v2.2.6.7
 #lovechen/embyserver
 #levonet/nginx:latest
 #devfox101/mt-photos-insightface-unofficial:latest
