@@ -26,7 +26,7 @@
 #jxxghp/moviepilot:latest
 #iyuucn/iyuuplus-dev:latest
 #easychen/cookiecloud
-#linuxserver/qbittorrent:4.6.7
+linuxserver/qbittorrent:4.6.7
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
@@ -44,4 +44,4 @@
 #mtphotos/mt-photos-ai:onnx-latest
 #gdy666/lucky:2.15.7
 #finab/bark-server
-ghostchu/peerbanhelper:latest
+#ghostchu/peerbanhelper:latest
