@@ -26,11 +26,11 @@
 #jxxghp/moviepilot:latest
 #iyuucn/iyuuplus-dev:latest
 #easychen/cookiecloud
-linuxserver/qbittorrent:4.3.9
+#linuxserver/qbittorrent:4.3.9
 #likun7981/hlink
 #linuxserver/transmission:4.0.6
 #xhofe/alist:v3.40.0
-#jxxghp/moviepilot-v2:2.3.9
+jxxghp/moviepilot-v2:2.8.7
 #alpine
 #boredazfcuk/icloudpd:1.0.1282_20-08-2025
 #ddsderek/wxchat:latest
