@@ -45,5 +45,5 @@
 #gdy666/lucky:2.15.7
 #finab/bark-server
 #ghostchu/peerbanhelper:latest
-#ghcr.io/open-webui/open-webui:main
-openwebui/openwebui:latest
+ghcr.io/open-webui/open-webui:main
+
