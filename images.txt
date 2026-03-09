@@ -46,4 +46,4 @@
 #finab/bark-server
 #ghostchu/peerbanhelper:latest
 #ghcr.io/open-webui/open-webui:main
-opwebui/openwebui:latest
+openwebui/openwebui:latest
