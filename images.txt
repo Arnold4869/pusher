@@ -46,6 +46,6 @@
 #finab/bark-server
 #ghostchu/peerbanhelper:latest
 #ghcr.io/open-webui/open-webui:main
-openclaw/openclaw:latest
+openclaw/openclaw:2026.3.28
 
 
