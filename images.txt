@@ -34,7 +34,7 @@
 #alpine
 #boredazfcuk/icloudpd:1.0.1282_20-08-2025
 #ddsderek/wxchat:latest
-#mzz2017/v2raya:v2.2.7.1
+mzz2017/v2raya:latest
 #lovechen/embyserver
 #levonet/nginx:latest
 #devfox101/mt-photos-insightface-unofficial:latest
@@ -42,7 +42,7 @@
 #mtphotos/mt-photos:1.35.6
 #mtphotos/mt-photos-pg:latest
 #mtphotos/mt-photos-ai:onnx-latest
-gdy666/lucky:latest
+#gdy666/lucky:latest
 #finab/bark-server
 #ghostchu/peerbanhelper:latest
 #ghcr.io/open-webui/open-webui:main
