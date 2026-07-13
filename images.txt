@@ -1,5 +1,5 @@
-# gdy666/lucky:latest
 # mzz2017/v2raya:latest
 # juanfi4/autoclip
 # josh5/steam-headless
 # openlistteam/openlist:v4.2.3
+linuxserver/qbittorrent:4.6.7
