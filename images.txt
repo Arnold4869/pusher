@@ -42,7 +42,7 @@
 #mtphotos/mt-photos:1.35.6
 #mtphotos/mt-photos-pg:latest
 #mtphotos/mt-photos-ai:onnx-latest
-#gdy666/lucky:latest
+gdy666/lucky:latest
 #finab/bark-server
 #ghostchu/peerbanhelper:latest
 #ghcr.io/open-webui/open-webui:main
