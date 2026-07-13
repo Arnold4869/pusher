@@ -51,3 +51,4 @@ gdy666/lucky:latest
 josh5/steam-headless
 
 
+openlistteam/openlist:v4.2.3
