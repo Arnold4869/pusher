@@ -1,49 +1,5 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#boredazfcuk/icloudpd:1.0.980_17-09-2024
-#onlyoffice/documentserver:latest
-#neosmemo/memos:stable
-#colinchang/ubuntu-desktop
-#hsuyelin/nas-tools:latest
-#hectorqin/reader:3.2.12
-#likeflyme/cloudbak
-#docker.io/redis:6.2-alpine
-#docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
-#ghcr.io/immich-app/immich-server:v1.117.0
-#ghcr.io/immich-app/immich-machine-learning:release
-#whyour/qinglong:2.16.2
-#finab/bark-server
-#gdy666/lucky:2.10.9
-#jancehui/update-jd-ck:1.1
-#portainer/portainer:latest
-#ellermister/mybili
-#kqstone/mt-photos-insightface-unofficial:latest
-#amtoaer/bili-sync-rs:v2.1.2
-#jxxghp/moviepilot:latest
-#iyuucn/iyuuplus-dev:latest
-#easychen/cookiecloud
-#linuxserver/qbittorrent:4.3.9
-#likun7981/hlink
-#linuxserver/transmission:4.0.6
-#xhofe/alist:v3.40.0
-#jxxghp/moviepilot-v2:2.8.7
-#alpine
-#boredazfcuk/icloudpd:1.0.1282_20-08-2025
-#ddsderek/wxchat:latest
-#mzz2017/v2raya:latest
-#lovechen/embyserver
-#levonet/nginx:latest
-#devfox101/mt-photos-insightface-unofficial:latest
-#szzhoubanxian/reseed-puppy:latest
-#mtphotos/mt-photos:1.35.6
-#mtphotos/mt-photos-pg:latest
-#mtphotos/mt-photos-ai:onnx-latest
-#finab/bark-server
-#ghostchu/peerbanhelper:latest
-#ghcr.io/open-webui/open-webui:main
-#halohub/halo:2.24.2
-#juanfi4/autoclip
+# mtphotos/mt-photos-ai:onnx-latest
+# ghostchu/peerbanhelper:latest
+# ghcr.io/open-webui/open-webui:main
+# halohub/halo:2.24.2
+# juanfi4/autoclip
