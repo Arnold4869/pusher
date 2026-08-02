@@ -1,6 +1,3 @@
-# josh5/steam-headless
-# openlistteam/openlist:v4.2.3
-# linuxserver/qbittorrent:4.6.7
-# ghcr.io/linkwarden/linkwarden:v2.13.5
-#mzz2017/v2raya:latest
-jxxghp/moviepilot-v2:latest
+# jxxghp/moviepilot-v2:latest
+# 注意：ACR 命名规则 = 去原作者前缀，仓库路径 = docker/moviepilot-v2
+# (ALIYUN_NAME_SPACE secret 必须设为 docker，不是 docker-pusher)
