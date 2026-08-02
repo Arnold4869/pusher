@@ -2,4 +2,5 @@
 # openlistteam/openlist:v4.2.3
 # linuxserver/qbittorrent:4.6.7
 # ghcr.io/linkwarden/linkwarden:v2.13.5
-mzz2017/v2raya:latest
+#mzz2017/v2raya:latest
+jxxghp/moviepilot-v2
