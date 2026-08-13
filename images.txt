@@ -1,6 +1,6 @@
 # 命名规则：去掉原作者前缀
 # 例如 jxxghp/moviepilot-v2 -> moviepilot-v2:latest
-# 注意：有命名空间前缀的镜像(如 visitsb/xxx)需保留完整路径，不能去前缀
+# 注意：有命名空间前缀的镜像(如 uberchuckie/xxx)需保留完整路径，不能去前缀
 # GH secret ALIYUN_NAME_SPACE=docker-pusher，最终地址 = registry.cn-hangzhou.aliyuncs.com/docker-pusher/<image>:<tag>
 # moviepilot-v2:latest (临时注释, docker hub 裸名拉取失败)
-visitsb/ollama-ipex:latest
+uberchuckie/ollama-intel-gpu:stable
