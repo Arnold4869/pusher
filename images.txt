@@ -5,3 +5,4 @@
 # moviepilot-v2:latest (临时注释, docker hub 裸名拉取失败)
 uberchuckie/ollama-intel-gpu:stable
 uberchuckie/ollama-intel-gpu:vulkan
+ghcr.io/ggml-org/llama.cpp:server-vulkan
