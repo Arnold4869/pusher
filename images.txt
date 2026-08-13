@@ -4,3 +4,4 @@
 # GH secret ALIYUN_NAME_SPACE=docker-pusher，最终地址 = registry.cn-hangzhou.aliyuncs.com/docker-pusher/<image>:<tag>
 # moviepilot-v2:latest (临时注释, docker hub 裸名拉取失败)
 uberchuckie/ollama-intel-gpu:stable
+uberchuckie/ollama-intel-gpu:vulkan
