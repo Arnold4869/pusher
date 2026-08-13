@@ -2,3 +2,4 @@
 # 例如 jxxghp/moviepilot-v2 -> moviepilot-v2:latest
 # GH secret ALIYUN_NAME_SPACE=docker-pusher，最终地址 = registry.cn-hangzhou.aliyuncs.com/docker-pusher/<image>:<tag>
 moviepilot-v2:latest
+ollama-ipex:latest
