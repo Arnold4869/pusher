@@ -7,4 +7,4 @@ uberchuckie/ollama-intel-gpu:stable
 uberchuckie/ollama-intel-gpu:vulkan
 ghcr.io/ggml-org/llama.cpp:server-vulkan
 
-lucky:v2
+gdy666/lucky:v2
