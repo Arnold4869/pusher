@@ -8,3 +8,4 @@ uberchuckie/ollama-intel-gpu:vulkan
 ghcr.io/ggml-org/llama.cpp:server-vulkan
 
 gdy666/lucky:v2
+nowen-reader:latest
