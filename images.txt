@@ -9,3 +9,4 @@ ghcr.io/ggml-org/llama.cpp:server-vulkan
 
 gdy666/lucky:v2
 cropflre/nowen-reader:latest
+ghcr.io/techysy/10router:latest
